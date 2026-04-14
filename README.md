@@ -2,6 +2,8 @@
 
 [Direct Link to Tool](https://jetup13.github.io/gogproductid/gog.html)
 
+HTML tool made alongside claude
+
 # How-to Use Tool
 
 1. Vist tool [website](https://jetup13.github.io/gogproductid/gog.html)
