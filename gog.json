@@ -396,6 +396,12 @@
     "product_type": "pack"
   },
   {
+    "product_id": 1081173744,
+    "title": "The Midnight Walk",
+    "image_logo": "3a20f73b53c1153b9597c0bd868ef83100c641888823e67a1926e5d4c5ff50b6",
+    "product_type": "game"
+  },
+  {
     "product_id": 1081193936,
     "title": "Symphony of War - The Nephilim Saga",
     "image_logo": "c5a0ad291d6ac4a0ce9f12d9df6ce27c1deef2ae45740202946d948c9bc32030",
@@ -424,6 +430,12 @@
     "title": "Shining Song Starnova Limited Edition",
     "image_logo": "2e09b3fb5fc2c9d20ff8aa4f8ea1688ef8f96a87a5009515a2babebca883665b",
     "product_type": "pack"
+  },
+  {
+    "product_id": 1081698491,
+    "title": "MaSzyna",
+    "image_logo": "527718d9ce98653d38eacb440817bf5a3d64f578986192c5cd090f6a2dd00d47",
+    "product_type": "game"
   },
   {
     "product_id": 1082086381,
@@ -3012,6 +3024,12 @@
     "product_type": "pack"
   },
   {
+    "product_id": 1138949304,
+    "title": "System Says Normal",
+    "image_logo": "2a161154db4abc96b9ad615c7eadce0933f9ef3a3372db6f4dece4cdf8ffd2a9",
+    "product_type": "game"
+  },
+  {
     "product_id": 1139090450,
     "title": "Above Snakes",
     "image_logo": "c8cbbb437df4376580f8ab3d5e84e7f07dc319635d332b5e9e4d9e041795cdf3",
@@ -3408,9 +3426,15 @@
     "product_type": "pack"
   },
   {
+    "product_id": 1149287774,
+    "title": "Two Beasts Or Not To Beast!",
+    "image_logo": "244fb3fec3ee22017be3a69f64053ea46b2386f6b3e5c30dddaa08a69692f50e",
+    "product_type": "game"
+  },
+  {
     "product_id": 1149533967,
     "title": "When Sirens Fall Silent",
-    "image_logo": "84b97a30108e71281edaefb4b2c094117382b824d16e1bc64122b1d033ad7243",
+    "image_logo": "06f82a94c41f48ec5367dae8017aca02ce0eca25aad8fe4003bfd894a137654c",
     "product_type": "game"
   },
   {
@@ -3684,6 +3708,12 @@
     "product_type": "game"
   },
   {
+    "product_id": 1155806916,
+    "title": "Zodiac Legion Demo",
+    "image_logo": "c14c5aa6445b2483fc4d330faed52f4694d2cf10e03b8c3cbbfe5ec479409e4d",
+    "product_type": "game"
+  },
+  {
     "product_id": 1155924803,
     "title": "Peglin",
     "image_logo": "fdf01f78241c797768772994737129f72aafdeb2ea573badaed4b689e6b5d8d7",
@@ -3946,6 +3976,12 @@
     "title": "STAR WARS Pilots Bundle",
     "image_logo": "9ff22cb79258d9261d1436b90228dedda38737cc116729b72967d0671ea10d84",
     "product_type": "pack"
+  },
+  {
+    "product_id": 1162687982,
+    "title": "IRON NEST - Heavy Turret Simulator",
+    "image_logo": "6a1e61ce50ff1036fd966e4defbbd4ae2017c2f6df2c3a8739aaaf6adbb77b9e",
+    "product_type": "game"
   },
   {
     "product_id": 1162916148,
@@ -4224,6 +4260,12 @@
     "product_type": "pack"
   },
   {
+    "product_id": 1169152159,
+    "title": "Botlings",
+    "image_logo": "f03e3e5c6205b2adc80a07a103b3eb3f3af6d34a41afd917c38ed4f6964dfe76",
+    "product_type": "game"
+  },
+  {
     "product_id": 1169377716,
     "title": "WORLD OF HORROR",
     "image_logo": "f76821c95e5198e836f3f0e8f88c5b5fac31943916e53a725e1c986b4fba5c26",
@@ -4420,6 +4462,12 @@
     "title": "The Legend of Heroes - Trails beyond the Horizon - Deluxe+ Edition",
     "image_logo": "65f6eede66128e86c8b57c72de40569132426c402abe51e09ece31883a4cfd06",
     "product_type": "pack"
+  },
+  {
+    "product_id": 1174733633,
+    "title": "Elementallis",
+    "image_logo": "fcc365489f938d9ce582455d0b489a65143717b953711f0eca99da949bf75f41",
+    "product_type": "game"
   },
   {
     "product_id": 1174788223,
@@ -4666,6 +4714,12 @@
     "title": "MULLET MAD JACK DELUXE EDITION",
     "image_logo": "a4a3a0b3cac17e63d2b4d086db769899e8ff06fbb67df75d3ea66100776d53b2",
     "product_type": "pack"
+  },
+  {
+    "product_id": 1181199412,
+    "title": "Liz and Rose’s Alchemy Factory",
+    "image_logo": "27060b29f3b88f5ad73b50afded083815d786e1d27ccdf6f72d865ac118fbfe7",
+    "product_type": "game"
   },
   {
     "product_id": 1181224050,
@@ -5070,6 +5124,12 @@
     "product_type": "pack"
   },
   {
+    "product_id": 1190512807,
+    "title": "An Abyss of Dreams",
+    "image_logo": "641c00030c9441dccf9ee262accd0aafa60f65285a387d27dc8e6dbd6db12708",
+    "product_type": "game"
+  },
+  {
     "product_id": 1190864704,
     "title": "Glowing Stones - Heroes' Awakening Demo",
     "image_logo": "a06ffb010218888827e923f66c58f0e43b6417a83d8329e927d47dbb7413e7cb",
@@ -5457,6 +5517,12 @@
     "product_id": 1199820566,
     "title": "1428 - Shadows over Silesia - Deluxe Edition",
     "image_logo": "b211f76413d681a9309fdd5821be644356809e6b5851f324e6f7d8c48f3320ab",
+    "product_type": "pack"
+  },
+  {
+    "product_id": 1200013233,
+    "title": "Summer's Heartbeat Deluxe Edition",
+    "image_logo": "efe2ab8160dc98db7f50f557af91abd0ecd63b379b4a33316121a7f06c586c5f",
     "product_type": "pack"
   },
   {
@@ -13392,6 +13458,12 @@
     "product_type": "game"
   },
   {
+    "product_id": 1218681429,
+    "title": "The Immortal John Triptych",
+    "image_logo": "613d9b9804f5fe22154442b8bf63d189cf4fb3dd58ed7b6b5f483a66493bbdb9",
+    "product_type": "game"
+  },
+  {
     "product_id": 1218736487,
     "title": "art of rally deluxe edition",
     "image_logo": "23af1aea62ae6d590def03aef2357eadd79f6bbd5f1a68e1353e0c9402b1a691",
@@ -13776,6 +13848,12 @@
     "product_type": "game"
   },
   {
+    "product_id": 1228404619,
+    "title": "Electro Man",
+    "image_logo": "1226ec090aef4de17ea950139be41641e53de971cec003251038ee233ebc952e",
+    "product_type": "game"
+  },
+  {
     "product_id": 1228667053,
     "title": "Road 96",
     "image_logo": "77fedba228ba9dad3b6202ca6b832824d131937cea056066c06f0143596d9ded",
@@ -13803,6 +13881,12 @@
     "product_id": 1229228729,
     "title": "Yakuza - Like a Dragon",
     "image_logo": "a63544881da9037ac6da3637034d04e4c166ca463016272b26de9023947eed15",
+    "product_type": "game"
+  },
+  {
+    "product_id": 1229263616,
+    "title": "Smash it Wild - Tactical Volleyball Roguelike",
+    "image_logo": "d73deb33231feea135a5dcc98aa53da65ca12fdfc39252f52040600a9d06f717",
     "product_type": "game"
   },
   {
@@ -14038,6 +14122,12 @@
     "title": "Ghost Girl Lasling",
     "image_logo": "0f01a5664a920686050134fd5d700fcc72dffb923bbd549ddc15ef0311730ccd",
     "product_type": "game"
+  },
+  {
+    "product_id": 1235659261,
+    "title": "Monsters are Coming! Corrupt Edition",
+    "image_logo": "a00709ee4e6a158c79f81925e644cdf75f397b2ceac19b8e8e4fd46fb696e084",
+    "product_type": "pack"
   },
   {
     "product_id": 1235841495,
@@ -15350,7 +15440,7 @@
   {
     "product_id": 1266089300,
     "title": "Resident Evil 3",
-    "image_logo": "57175ee3a4e030d885f248e770e76faf0be99aa3a00d0334058e6ef940d54265",
+    "image_logo": "8bb11429f0199f14ce80f0cfda96412f5a0cf837c60c960cdf21c53864615850",
     "product_type": "game"
   },
   {
@@ -15822,6 +15912,12 @@
     "product_type": "game"
   },
   {
+    "product_id": 1275275791,
+    "title": "ShantyTown",
+    "image_logo": "1d72221f2275f1ee029adc1a85c9adf520588f78b04c7ab930cf4252832e81ab",
+    "product_type": "game"
+  },
+  {
     "product_id": 1275833822,
     "title": "One Finger Death Punch 2",
     "image_logo": "cc2854f1b5d862071df046e9649b9c22ae4fea4f897e0796fc7137fafc7e6805",
@@ -16170,6 +16266,12 @@
     "product_type": "game"
   },
   {
+    "product_id": 1285067447,
+    "title": "SaGa Frontier Remastered",
+    "image_logo": "2a26c89def2caac4a23cd328a7793831693f61325621bf851c169748da1f1819",
+    "product_type": "game"
+  },
+  {
     "product_id": 1285204674,
     "title": "Jenny LeClue - Detectivu",
     "image_logo": "74f97f5d957fbf955bb99423771ff7382e88baa3f859e678281c52a2f7501d47",
@@ -16502,7 +16604,7 @@
   {
     "product_id": 1294456720,
     "title": "The Dawning Clocks of Time Remake",
-    "image_logo": "c4c56d6ba9bc9f1afba185dccecf5542fafa4c5f08e3339f8260a0726e80d4e4",
+    "image_logo": "b69df5c5f083f4be182da51f3c2c5d673df74fcd468553b00101b890b890fa9c",
     "product_type": "game"
   },
   {
@@ -16569,6 +16671,12 @@
     "product_id": 1295495170,
     "title": "The Fermi Paradox",
     "image_logo": "9d4ebf7a1ae8067b9343bebe2c5471f523ba6969bfe896df693be60ccf41f846",
+    "product_type": "game"
+  },
+  {
+    "product_id": 1295524326,
+    "title": "The Abbess Garden",
+    "image_logo": "749954f7eb1b6e0930a2bd4115ed7a686d1e650f53ca14d7411be7dc3f3a344c",
     "product_type": "game"
   },
   {
@@ -17442,6 +17550,12 @@
     "product_type": "game"
   },
   {
+    "product_id": 1314705603,
+    "title": "The Coma 3 - Bloodlines - Deluxe Edition",
+    "image_logo": "0342151643f43702a1a6d7ec781be5fd3fde83c0ade9e317273c5a8bf2494071",
+    "product_type": "pack"
+  },
+  {
     "product_id": 1314750105,
     "title": "Yooka-Laylee and the Impossible Lair",
     "image_logo": "e4d381c817d3bc5ae87d370253a2773dadd6640e2f7a8d6981b7e54262bb3dc6",
@@ -17547,6 +17661,12 @@
     "product_id": 1316908698,
     "title": "Guacamelee! 2",
     "image_logo": "1cf2a6e2358df93b8078914e359be9e211791ca85751b43012df79ae27f514df",
+    "product_type": "game"
+  },
+  {
+    "product_id": 1316952658,
+    "title": "Uncle Lee’s Cookbook - Five Recipes for Disaster",
+    "image_logo": "69f489be6b780c15964334c2ab387a80100819476040c2886d3588115802e2b4",
     "product_type": "game"
   },
   {
@@ -18450,6 +18570,12 @@
     "product_type": "game"
   },
   {
+    "product_id": 1339157411,
+    "title": "Magin - The Rat Project Stories",
+    "image_logo": "25d3003baa6c7f1a3d0a80ce418908ef305f118dac8a7be3ceea026d8b293d66",
+    "product_type": "game"
+  },
+  {
     "product_id": 1339193570,
     "title": "The Medium Deluxe Edition",
     "image_logo": "f8bb2b529c58e1fa3fc9fc02d1d3032caa1b0ead9c8e2c5ed9c13cc9afe448c9",
@@ -18649,7 +18775,7 @@
   },
   {
     "product_id": 1344051099,
-    "title": "Monsters are Coming! Rock & Road",
+    "title": "Monsters are Coming!",
     "image_logo": "e874d4988d2d72312815fc592a0e48ba1bc9185dcbcefe144b204a1f802d56ce",
     "product_type": "game"
   },
@@ -19976,7 +20102,7 @@
   {
     "product_id": 1376131651,
     "title": "Resident Evil Classic Bundle",
-    "image_logo": "0227bf941d0f6170d78241a858d5b3e084c85c77983008c1857aa5b12f25e5fe",
+    "image_logo": "65b1a46b7d012726408c70cfcace7edf4816ed7601dccb1751078ba9bb3f2913",
     "product_type": "pack"
   },
   {
@@ -19988,7 +20114,7 @@
   {
     "product_id": 1376190780,
     "title": "TurretGirls",
-    "image_logo": "ed5bb219d62b6a4a4b7bc4a881f3524c9decbddc422cc1854f897050e0bbc5f7",
+    "image_logo": "e75a8ddac107aafc82b99f751599461c4b49804e01bd8a684c9ebb96ad160f5d",
     "product_type": "game"
   },
   {
@@ -21386,7 +21512,7 @@
   {
     "product_id": 1408275117,
     "title": "Moses & Plato - Last Train to Clawville",
-    "image_logo": "2ae5829adb759adb6c1f965eb3b4c6402b3e3898d15de4e25f769704d381878b",
+    "image_logo": "33da1d5d35639f6bbd4e62c65f887d52a91b2276bfb9dbb17f078cdcc321cd20",
     "product_type": "game"
   },
   {
@@ -21933,6 +22059,12 @@
     "product_id": 1421124555,
     "title": "Witch's Rhythm Puzzle",
     "image_logo": "3ea7c9f5d02a4fe3529c5ee1a913b41b06572508211dd35e21289a96097bdbc1",
+    "product_type": "game"
+  },
+  {
+    "product_id": 1421207615,
+    "title": "Robbo",
+    "image_logo": "04c2b5c7de6af79ef267685f697655d9f3a41f8ab5c54135dcf2ed9255493f4f",
     "product_type": "game"
   },
   {
@@ -22683,6 +22815,12 @@
     "product_id": 1426562478,
     "title": "Exophobia",
     "image_logo": "b9deb84e46062406cc0cf39c565fdcd993a923b99b5be64aab25df616687170b",
+    "product_type": "game"
+  },
+  {
+    "product_id": 1426577730,
+    "title": "Celsius Strays",
+    "image_logo": "d9e56ba695cb6554b9524e616ab490d586c52b3db6e3f229c73ecda7771e4345",
     "product_type": "game"
   },
   {
@@ -23852,7 +23990,7 @@
   {
     "product_id": 1433527110,
     "title": "The Dawning Clocks of Time Remake",
-    "image_logo": "c2ca4540bc6e12884820fec31766daec9efe7c0ade2f6b6ed6a87441726648fc",
+    "image_logo": "2c65cefe4742f2fb4fafc59926277dddb31e18367f7d254f27b4ab720a05e71d",
     "product_type": "pack"
   },
   {
@@ -25993,7 +26131,7 @@
   },
   {
     "product_id": 1448355943,
-    "title": "Man O' War - Corsair - Warhammer Naval Battles",
+    "title": "Man O' War - Corsair - Warhammer Naval Battles (Classic)",
     "image_logo": "fb8e7327ce3b70782b86ae67f1aab6740c2011e46c11e5f2cbdbe495a59dcc87",
     "product_type": "game"
   },
@@ -27858,6 +27996,12 @@
     "product_type": "game"
   },
   {
+    "product_id": 1470242185,
+    "title": "Cthulhu - The Cosmic Abyss - R'lyeh Edition",
+    "image_logo": "c14e98debc9ee04f7055b363cd9911344781dd4b9f1550f50aad1ab8fcf1d6d6",
+    "product_type": "pack"
+  },
+  {
     "product_id": 1470378011,
     "title": "Discoveries of the Deep",
     "image_logo": "46e1d68aefc26c9440f6089b45255a5c186d0ca55bbe17bd5f2f67c22496365c",
@@ -27874,6 +28018,12 @@
     "title": "Ancestors - The Humankind Odyssey Official Soundtrack Bundle",
     "image_logo": "f222f23e6052f80d28cae83a6e589e105ad8581628ae9e5c83af727ece3ac9dc",
     "product_type": "pack"
+  },
+  {
+    "product_id": 1470704591,
+    "title": "Pluto",
+    "image_logo": "687c18ad278080aa0de58ae11c93d01170e002a6319f8fb3d06cc0de26c26ee4",
+    "product_type": "game"
   },
   {
     "product_id": 1470768488,
@@ -27951,6 +28101,12 @@
     "product_id": 1472191358,
     "title": "Nanotale - Typing Chronicles",
     "image_logo": "0ae808786f860d0c82d4e5b233fb9d247178c53ff338336c1455661a85d3f039",
+    "product_type": "game"
+  },
+  {
+    "product_id": 1472210676,
+    "title": "Adventures of Robbo",
+    "image_logo": "d1d46fd31ba9cbccab1d9b88a73e0d2ebe54fea71e421159c8e6de0391928252",
     "product_type": "game"
   },
   {
@@ -29097,6 +29253,12 @@
     "product_id": 1498864874,
     "title": "Crysis Remastered Trilogy",
     "image_logo": "88a2478fa665c1f86aa74cf7ff07f85d1f5c01ae7c4bbb37f5cbbe9e8bfd09d8",
+    "product_type": "pack"
+  },
+  {
+    "product_id": 1499094261,
+    "title": "Sengoku Dynasty - Sakura Edition",
+    "image_logo": "52aee5ab7e7c905c5d1f5875a7120c29ff323a364c3d87f4115e154faf2f569a",
     "product_type": "pack"
   },
   {
@@ -30464,7 +30626,7 @@
   {
     "product_id": 1534123252,
     "title": "Resident Evil 2",
-    "image_logo": "6fcbd0fdc11e9c8129a8f2dd772bbc47ba4b9be0d406cbda451e0382b12e9c62",
+    "image_logo": "ff9e25f37c7566df6858dc4edc44e0d72374adcf5431c7c540d532e485f6dd14",
     "product_type": "game"
   },
   {
@@ -30662,7 +30824,7 @@
   {
     "product_id": 1540274038,
     "title": "Fragile Existence",
-    "image_logo": "70647ff897c88d29a3349e79b64099c3a8b3d8fb9ef4c7bb453dae20455d3ffa",
+    "image_logo": "5ddbadd05607db81157ca99eb6c2fe410ff0184adb1ffe50b0259a7c33adc44d",
     "product_type": "game"
   },
   {
@@ -30966,6 +31128,12 @@
     "product_type": "pack"
   },
   {
+    "product_id": 1547815003,
+    "title": "MOTORSLICE",
+    "image_logo": "14a0f86090cffd9551be2975148c9d8db14fcd31a82d23dc15ea767eb09aa476",
+    "product_type": "game"
+  },
+  {
     "product_id": 1547869041,
     "title": "Probo Rush",
     "image_logo": "d97e183950eaf465cb14801a86e905c0e28021032a055ff1f3e26dcace0f2a63",
@@ -31090,6 +31258,12 @@
     "title": "Look Mum No Computer",
     "image_logo": "843a51220adba6c37e484b880ae26ffab2d106a457345d70d9ff20ccbae338c7",
     "product_type": "game"
+  },
+  {
+    "product_id": 1551086313,
+    "title": "REPLACED - Supporter Edition",
+    "image_logo": "86bfbc5e226201aa274430e0478cb4d0828daeb2ee26ba414824b871c806c2fe",
+    "product_type": "pack"
   },
   {
     "product_id": 1551612399,
@@ -31410,6 +31584,12 @@
     "product_type": "game"
   },
   {
+    "product_id": 1559242166,
+    "title": "Inner Voice",
+    "image_logo": "563987a9528a2546c91e18460372f4996357b1dd4a2fd2890696a1648b53dab0",
+    "product_type": "game"
+  },
+  {
     "product_id": 1559432081,
     "title": "PolarityFlow's Metroidvania Bundle",
     "image_logo": "308e871af9258d295fc3fba4d333e8dd7ac6f26483f01729d7b37de1b805135c",
@@ -31512,6 +31692,12 @@
     "product_type": "game"
   },
   {
+    "product_id": 1561928791,
+    "title": "Aphelion",
+    "image_logo": "280489cf982175a74e873b978097aad8c23ae3e1935eddbd15403fdd2291d508",
+    "product_type": "game"
+  },
+  {
     "product_id": 1561985671,
     "title": "Dr. Fetus' Mean Meat Machine",
     "image_logo": "a0a0eb9428885f9dc1b0c26e2cfa5b8e0c7be0d289a047ca026f939732416f92",
@@ -31587,6 +31773,12 @@
     "product_id": 1563414043,
     "title": "Nongunz - Doppelganger Edition Demo",
     "image_logo": "571bee4c0e5921ccecdf815df38f1803dd75e872a80a2b119294999647c69d6b",
+    "product_type": "game"
+  },
+  {
+    "product_id": 1563433920,
+    "title": "Airport Contraband",
+    "image_logo": "9c0db4f96713fe40f050e71c348c791896bd052676bce3e25bd88b8effe72b47",
     "product_type": "game"
   },
   {
@@ -31683,6 +31875,12 @@
     "product_id": 1566250117,
     "title": "Kriophobia",
     "image_logo": "e8e480e91cbee15a0af49a79b7c3c0dc3ddac287021c6ec5179065b3db6ab621",
+    "product_type": "game"
+  },
+  {
+    "product_id": 1566417775,
+    "title": "Heartlight",
+    "image_logo": "42a2770c4662e427db8a262f655d705f354accdc6e7780b5cc54b3a7599a7bd7",
     "product_type": "game"
   },
   {
@@ -32196,6 +32394,12 @@
     "product_type": "game"
   },
   {
+    "product_id": 1577460754,
+    "title": "The Abbess Garden Deluxe",
+    "image_logo": "7835105cfa99466f42c1671ac8a60b9d6ce787417586d4109fe0aab41c3654da",
+    "product_type": "pack"
+  },
+  {
     "product_id": 1577750719,
     "title": "Bears In Space",
     "image_logo": "bde4b66e9bf8511839c50307b4eac0b3ee0bf0bc5c659c2a2b628768163419ff",
@@ -32330,7 +32534,7 @@
   {
     "product_id": 1580232252,
     "title": "Resident Evil",
-    "image_logo": "4e1ab80d89cd031ecd5a772f4527acb9ce4b054458128fd6d5cc4e1dfda6b16b",
+    "image_logo": "f04153965e9225d77a94359cfadd52ce96dcf0c59522ea1d1e99a94c14b0fb5d",
     "product_type": "game"
   },
   {
@@ -32676,6 +32880,12 @@
     "product_type": "pack"
   },
   {
+    "product_id": 1587811283,
+    "title": "A Tragedy in Elvish",
+    "image_logo": "93a1f4b30b7ded661ced8ebaf7b247383bcc5e91e6ec18ee363fdecfdbb1782a",
+    "product_type": "game"
+  },
+  {
     "product_id": 1587851209,
     "title": "Defender of the Crown - The Legend Returns",
     "image_logo": "ae75cc00f67c4f76e87e5435bf6ba62878213d2bac6459402685dd974532d7fd",
@@ -32684,7 +32894,7 @@
   {
     "product_id": 1587885678,
     "title": "Breath of Fire IV",
-    "image_logo": "bccee7c1975df557727c0b8856b69a53f011a9f0025f54a26bca29b3ae6b566c",
+    "image_logo": "26771982a9db1ba23d42cf5836b5f5d646dee3af8559bd76c261fb57258c8c23",
     "product_type": "game"
   },
   {
@@ -32727,6 +32937,12 @@
     "product_id": 1588524889,
     "title": "Fell Seal - Arbiter's Mark",
     "image_logo": "aba311a357840fdb0acaa112a8ea8dcb20c3a15e0a7cbcef88a389ff360077bb",
+    "product_type": "game"
+  },
+  {
+    "product_id": 1588896497,
+    "title": "Mask City - Chapter Zero",
+    "image_logo": "a121909273bf508244e71e60088382632ce2d156daf7a744530833eb8879d9b5",
     "product_type": "game"
   },
   {
@@ -33086,7 +33302,7 @@
   {
     "product_id": 1597741823,
     "title": "Dino Crisis 2",
-    "image_logo": "f9d4cf2b4696bb64932dc22928ff0b4b8f35c5aa68ab6c73555f3c9edee69dce",
+    "image_logo": "fa8a785ab5159e83b1d77d52478a041994d6d8e598086316cbc2705d2245e221",
     "product_type": "game"
   },
   {
@@ -33159,6 +33375,12 @@
     "product_id": 1599156643,
     "title": "HyperParasite",
     "image_logo": "f522901246d4b3fc1937070189dc4d524231f228e06c97b09f50a2efd38f1daa",
+    "product_type": "game"
+  },
+  {
+    "product_id": 1599237844,
+    "title": "Succubus Spell",
+    "image_logo": "8359dd850bd1babb98c1dc8720febd9e08f6c82e4bfa6f32a69e24ac6e779f76",
     "product_type": "game"
   },
   {
@@ -33582,6 +33804,12 @@
     "product_type": "game"
   },
   {
+    "product_id": 1609546427,
+    "title": "Sintopia",
+    "image_logo": "cc4d855a4c813e67c1413d6eb0f06c0af2e5cf2252df5e6ed494126e18334ea7",
+    "product_type": "game"
+  },
+  {
     "product_id": 1609554408,
     "title": "Toaplan Arcade Shoot'em Ups 1",
     "image_logo": "95c01193eedefc486c58a5740cda66df834e729e513cfc8dbeabd0025ca41f3c",
@@ -33778,6 +34006,12 @@
     "title": "Wolfenstein II - The Freedom Chronicles - Episode 3",
     "image_logo": "cae9228280829ad5226ebb5451899e7db7dfbf7f1cadc8bdb97431d043a757db",
     "product_type": "pack"
+  },
+  {
+    "product_id": 1615322203,
+    "title": "Battlestar Galactica - Scattered Hopes",
+    "image_logo": "2d15e685e0a7c2148482250284014cdbaab670b66269c0155b22f26bcaef579b",
+    "product_type": "game"
   },
   {
     "product_id": 1615328735,
@@ -34448,7 +34682,7 @@
   {
     "product_id": 1630229434,
     "title": "Dino Crisis Bundle",
-    "image_logo": "a9ad1a2eb41652cf1bdcf2ef21b724ed91c800012d6903856088d984bebe695a",
+    "image_logo": "389df3d41dec7e709e05d6ae8ef6cab7afa1f1ef2b299f0fd753e0500e146d0e",
     "product_type": "pack"
   },
   {
@@ -35714,7 +35948,7 @@
   {
     "product_id": 1661434114,
     "title": "Dino Crisis",
-    "image_logo": "a0b794488e3f02dfcd0b33b7a728b98b6bad89a9c33bfd1ded5e6958b4ed3ebd",
+    "image_logo": "9853a94ff607e31a91ec173ff56133f4db02383a62fd9be192885f8c014a247e",
     "product_type": "game"
   },
   {
@@ -36372,6 +36606,12 @@
     "product_type": "game"
   },
   {
+    "product_id": 1676560622,
+    "title": "Chained Echoes - Ashes of Elrant (Original Game Soundtrack)",
+    "image_logo": "dad6bfde73538790163d485cd89bc51f37b436620e85f9d8d59b329df7764581",
+    "product_type": "game"
+  },
+  {
     "product_id": 1676641473,
     "title": "Don't Escape - 4 Days to Survive",
     "image_logo": "65357e4559495f2fef51a70c4fd74ceeb4201d9be7c8ebb383c855cb09562ff4",
@@ -36562,6 +36802,12 @@
     "title": "COOKIE CUTTER GAME + MEGASTRUCTURE'S MOANINGS SOUNDTRACK",
     "image_logo": "e3fea818259800bebcaf1afe85e8011e71fc9b46bd9cb4c186a6c5e6c432e937",
     "product_type": "pack"
+  },
+  {
+    "product_id": 1682064786,
+    "title": "Robbo Millennium",
+    "image_logo": "59a7edf743e77fcc4151df777ea441092f7c90bd30e56ae737c2a6fdc139cc8e",
+    "product_type": "game"
   },
   {
     "product_id": 1682258648,
@@ -37128,6 +37374,12 @@
     "product_type": "game"
   },
   {
+    "product_id": 1695949172,
+    "title": "Stellaris - Season 10",
+    "image_logo": "7d0128529e0f766178b922ed8fd6f638746897d30a018223ec88ef887b2cf71a",
+    "product_type": "pack"
+  },
+  {
     "product_id": 1696173501,
     "title": "Director of Football",
     "image_logo": "c29cb3bc9b6df58d6d32cb0589bb9e88a6563c0f23589f3778c2bbb449e2ac5b",
@@ -37690,6 +37942,12 @@
     "title": "Gunslugs",
     "image_logo": "0cf3984b2ee099c7d9c0be6e3d42bbaf96a35271a08ea6743718ac359df308e9",
     "product_type": "game"
+  },
+  {
+    "product_id": 1709550644,
+    "title": "product_title_1709550644",
+    "image_logo": "fac4f154d439d5b330d66a7a5b58684072d269a632cebc276eb72d98f28ea68b",
+    "product_type": "pack"
   },
   {
     "product_id": 1709591792,
@@ -38422,6 +38680,12 @@
     "title": "Cosmi - Forbidden Forests",
     "image_logo": "e21596a109b722badcefba1067ceb4113f8be05143aae4eed0dce4197ec50cc3",
     "product_type": "game"
+  },
+  {
+    "product_id": 1728062555,
+    "title": "Regions of Ruin - Runegate Deluxe Edition",
+    "image_logo": "a8e48c4a9077b6e048839db9908154092ccaf33fc934f5c06130e4640ec1b38d",
+    "product_type": "pack"
   },
   {
     "product_id": 1728172699,
@@ -39852,6 +40116,12 @@
     "product_type": "pack"
   },
   {
+    "product_id": 1759081717,
+    "title": "Romancing SaGa 2",
+    "image_logo": "520155baa8c21078199dc4a4fd3d527ccb1ab6abacad9002bc4a471541e46c78",
+    "product_type": "game"
+  },
+  {
     "product_id": 1759119447,
     "title": "Potion Permit - Steampunk Bundle",
     "image_logo": "4973407a200ccdcccaf67ea4e7198f1c3886c376fe0ebe3f2f5ac79833edc47b",
@@ -40077,6 +40347,12 @@
     "product_id": 1765360308,
     "title": "Orbital Bullet – The 360° Rogue-lite",
     "image_logo": "a9a9be996196a743591fe777c471b4c765dc07c5b3c34ee5352b10d4113c2018",
+    "product_type": "game"
+  },
+  {
+    "product_id": 1765610130,
+    "title": "Heroes of Science and Fiction",
+    "image_logo": "fd90076783feed36508a83395b7876de8996268b386cce9c4a7f92214856e347",
     "product_type": "game"
   },
   {
@@ -40329,6 +40605,12 @@
     "product_id": 1771131301,
     "title": "Legendary Hoplite",
     "image_logo": "e09ae7d6ced7b7ec8463ed11092dc9e6034ee89a2d7144a45dbe85da717008a1",
+    "product_type": "game"
+  },
+  {
+    "product_id": 1771131491,
+    "title": "Romancing SaGa 3",
+    "image_logo": "e098e9eb2a451336427bfc8c14d9c9c040b3ef1e83f8145a8a0d7ece1897debb",
     "product_type": "game"
   },
   {
@@ -40730,7 +41012,7 @@
   {
     "product_id": 1780825595,
     "title": "The Way of Wrath",
-    "image_logo": "04c95413582fc57f3598b31172bafa0388ecbff513c65f3d273213f4f9974137",
+    "image_logo": "4eb2f46fbee2f313701927ca6825044a8f09959a1f435e6aa6c091bb097abb5d",
     "product_type": "game"
   },
   {
@@ -40929,6 +41211,12 @@
     "product_id": 1786094683,
     "title": "Lacuna - Prologue",
     "image_logo": "b1f663febc88eb78f0dfe9ed34ab43845f47761ec98a9d436f0003a0e07d44e8",
+    "product_type": "game"
+  },
+  {
+    "product_id": 1786501441,
+    "title": "Citadel Remonstered",
+    "image_logo": "5f4bcd273836fff17a71097190ad800f3ddd3f221950b7d7f199f715015d3e13",
     "product_type": "game"
   },
   {
@@ -41208,6 +41496,12 @@
     "product_type": "pack"
   },
   {
+    "product_id": 1791814850,
+    "title": "Order Automatica Demo",
+    "image_logo": "fe76ce765f1ed04b797217935353c96540f0706d0f0e783f8c7b0c9ad09b0ca8",
+    "product_type": "game"
+  },
+  {
     "product_id": 1791830361,
     "title": "Good Night, Knight",
     "image_logo": "d623bd7dfba142950bbbce79204732fb05bc1468210d3993ac366356f56ea3a0",
@@ -41462,7 +41756,7 @@
   {
     "product_id": 1799082941,
     "title": "Kumitantei - Old-School Slaughter",
-    "image_logo": "42b35ae69fa403f7912a88f5f5e00015db19adfab0508763804727efb0ef4aa2",
+    "image_logo": "c0b9db39c54e652e50c6a07b74f561ff80a0aad21dc37b814581f6c1ae612412",
     "product_type": "game"
   },
   {
@@ -42838,6 +43132,12 @@
     "title": "Unreal Lust Theory",
     "image_logo": "54a846470b9775f013b78b3b600562c1674caea681c18a70d145462945d8b27a",
     "product_type": "game"
+  },
+  {
+    "product_id": 1829834437,
+    "title": "Cthulhu - The Cosmic Abyss - Upgrade to R'lyeh Edition",
+    "image_logo": "7e3c29283212c3c956c59af84f94395b788ac4cee78753f0c06cbb744cb4b695",
+    "product_type": "pack"
   },
   {
     "product_id": 1830130181,
@@ -44274,6 +44574,12 @@
     "product_type": "game"
   },
   {
+    "product_id": 1863271195,
+    "title": "Titanium Court with a Side of Soundtrack",
+    "image_logo": "df139bde8a643c1f1912173fe8972dd9108bac86310f2bf8ca41e13f4cca99ea",
+    "product_type": "pack"
+  },
+  {
     "product_id": 1863469780,
     "title": "Destroyer - The U-Boat Hunter Supporter Bundle",
     "image_logo": "69861362783b4c21fb80165ea5fb54f0fab87e2ff96376ea92ca686c7ba9bbe0",
@@ -44541,6 +44847,12 @@
     "product_id": 1870509138,
     "title": "Nightmare Reaper Demo",
     "image_logo": "d98235a65154ad871789e1d62dd3bb8d51768385b6874bb0371fddf105359ed4",
+    "product_type": "game"
+  },
+  {
+    "product_id": 1870678744,
+    "title": "Bonereader Demo",
+    "image_logo": "b0ad6e6730e4eb6c923763b20376f721507b8e18c7c0c6808311ebdf40cad61b",
     "product_type": "game"
   },
   {
@@ -45044,7 +45356,7 @@
   {
     "product_id": 1883445070,
     "title": "Atomic Owl",
-    "image_logo": "6e3ab47f383bfe227d2fe2e0bbb0424a03e2fe7b1d6f0e27dd0460fa87891919",
+    "image_logo": "e3c1cd526c70f2ed8249c8b8c70bac1d35ce0d3fab5e0d5ed9182bd688445fab",
     "product_type": "game"
   },
   {
@@ -45459,6 +45771,12 @@
     "product_id": 1893926760,
     "title": "Voodoo Detective",
     "image_logo": "9a5e465976a1c81740daca9d49f8c40ac2dac26a60a66ae9034666b496d4eeec",
+    "product_type": "game"
+  },
+  {
+    "product_id": 1894472937,
+    "title": "The Golden Caravan",
+    "image_logo": "c61303e1bcd3e58c3b0ccd8f7c923cc394d9554f153c43761093374dc7c067b6",
     "product_type": "game"
   },
   {
@@ -45998,7 +46316,7 @@
   {
     "product_id": 1909273717,
     "title": "Resident Evil Deluxe Origins Bundle",
-    "image_logo": "a8ebe53452c51951a076489d486edf9c011651a13dac62d6359563ac34d2b1d5",
+    "image_logo": "0ed169ea07c5b2f83e4e4153a56de85cdfd47973b68d7a19cb9741962099be1c",
     "product_type": "pack"
   },
   {
@@ -46490,7 +46808,7 @@
   {
     "product_id": 1923260625,
     "title": "Resident Evil Bundle",
-    "image_logo": "d6bed57ed55e5e4a4e77360258f885759374fa42361856ce891ae7ef1477ff31",
+    "image_logo": "6e992352907dfb05db1043887aece0a441c66ea1cb7ac88349911208e16f0038",
     "product_type": "pack"
   },
   {
@@ -47412,6 +47730,12 @@
     "product_type": "game"
   },
   {
+    "product_id": 1946916371,
+    "title": "Titanium Court",
+    "image_logo": "1f880c5018dcb29fc95039dbee7e3e45e807811fa0fe13713e83158a0f37c21e",
+    "product_type": "game"
+  },
+  {
     "product_id": 1946916562,
     "title": "Diplomacy is Not an Option",
     "image_logo": "e791cb965ccd3b44077390ae0d4d9a46e1ce7c4fb4401ac209139a1219833a6a",
@@ -47580,6 +47904,12 @@
     "product_type": "pack"
   },
   {
+    "product_id": 1950493652,
+    "title": "My Demonic Romance",
+    "image_logo": "6dfc81aac06eb5a65785f5389774fde1f2a88943187d77e0723b68ee04d0918e",
+    "product_type": "game"
+  },
+  {
     "product_id": 1950524511,
     "title": "CONSCRIPT Officer Edition",
     "image_logo": "c76caa9e655981d923dc5cc83edfbd4820dc98ba6310fbeb91b046fa9ab7cea6",
@@ -47698,6 +48028,12 @@
     "title": "Construction Simulator 2+3 Bundle",
     "image_logo": "ed671129ad9488fb8cef4695a7ca25bad083d92a6527a80c8f4a8dacf7825fb2",
     "product_type": "pack"
+  },
+  {
+    "product_id": 1954375796,
+    "title": "Chained Echoes (Original Game Soundtrack)",
+    "image_logo": "2f1dee4a42f0e2329a15e5136eeb6ae328b3e5fa44bf6cba242c60c60626aead",
+    "product_type": "game"
   },
   {
     "product_id": 1954553930,
@@ -48378,6 +48714,12 @@
     "product_type": "pack"
   },
   {
+    "product_id": 1969775197,
+    "title": "Fruitbus",
+    "image_logo": "764e8c108138e7a3cb9801f19d2f181df5aa57b3e24999d9ea0bf54f39f57597",
+    "product_type": "game"
+  },
+  {
     "product_id": 1969845235,
     "title": "Bad Cheese",
     "image_logo": "700c497da8f4f68dab3ce1603c86f431185ec81d07222ce812b388400334f979",
@@ -49035,6 +49377,12 @@
     "product_id": 1987327876,
     "title": "Judgment - Apocalypse Survival Simulation - Desert Edition",
     "image_logo": "0a49184b3450e441c2303e58e5d034272069904676b11e01f8aca7e0ca763518",
+    "product_type": "pack"
+  },
+  {
+    "product_id": 1987536057,
+    "title": "Magin - The Rat Project Stories - Essence Edition",
+    "image_logo": "97b3fd8047043f9fced64c3cd1b750772fb0631706cabab24c0d01cb24f13aec",
     "product_type": "pack"
   },
   {
@@ -50290,6 +50638,12 @@
     "title": "Star Fleet Deluxe",
     "image_logo": "837b3ff74a7fe62de46f14a66d4be236f8a3d3f685e545058c04dd679b2cda0f",
     "product_type": "game"
+  },
+  {
+    "product_id": 2016524175,
+    "title": "Banquet for Fools + Soundtrack",
+    "image_logo": "49f387fe41985f05b92604cf6bf6d58d1f1012b479b8710bff564290f90db36a",
+    "product_type": "pack"
   },
   {
     "product_id": 2016821901,
@@ -52404,6 +52758,12 @@
     "product_type": "game"
   },
   {
+    "product_id": 2069895196,
+    "title": "Lustful Roommates",
+    "image_logo": "97a34b3857508c8d59b59c89072ebff45ac214474849ac6d85cc926d921a328f",
+    "product_type": "game"
+  },
+  {
     "product_id": 2069960954,
     "title": "Cronos - The New Dawn - Deluxe Edition",
     "image_logo": "022b3cab18900e9204603e0f211ae5aebd5f2d9311cc5d02884e3e9c99c64f02",
@@ -52578,9 +52938,15 @@
     "product_type": "game"
   },
   {
+    "product_id": 2077051779,
+    "title": "Cthulhu - The Cosmic Abyss",
+    "image_logo": "a81482346f19d4e66125cd9e05517253fe382c0ebab98070aab797cbbef6cc10",
+    "product_type": "game"
+  },
+  {
     "product_id": 2077138522,
     "title": "Machiavelli the Prince",
-    "image_logo": "a552c3af56a7edc0afcfa1266579b70ebe7a1050b7af1b8cdde1be859ab370b0",
+    "image_logo": "026994811a1f7a362afcd3d04fee58cf111a2471e4413b439d263afab2b82ebc",
     "product_type": "game"
   },
   {
@@ -53343,6 +53709,12 @@
     "product_id": 2095790633,
     "title": "Billy Blade - Temple of Time",
     "image_logo": "f9f1def77232f353281e3daacc1df4d4e8c79241e9cdfbd2485d5ec5f32b3179",
+    "product_type": "game"
+  },
+  {
+    "product_id": 2095987176,
+    "title": "Under the Island (Selections from the Original Game Soundtrack)",
+    "image_logo": "e6d062a050304eea3639b252a6cdd4dd67848f0b89439b471dbae506b1280cad",
     "product_type": "game"
   },
   {
@@ -54384,6 +54756,12 @@
     "product_type": "game"
   },
   {
+    "product_id": 2125927245,
+    "title": "Fechtbuch - The Real Swordfighting behind Kingdom Come",
+    "image_logo": "d4654ecda4fd37bffe3b28e989c251381dfce945257cbc078fd5ab9ecc6033a3",
+    "product_type": "movie"
+  },
+  {
     "product_id": 2125981742,
     "title": "The Outer Worlds Expansion Pass",
     "image_logo": "db769443ea1fe3a8b68895b07187412855c7b0b224005d0877c16bd99ddbdc3f",
@@ -54411,6 +54789,12 @@
     "product_id": 2126540092,
     "title": "18 Wheels of Steel - Haulin’",
     "image_logo": "d6bad3cc11e5225d1ae3a17f5d113b04a12eb3c80e1aca7a191b83e9cd8eefa3",
+    "product_type": "game"
+  },
+  {
+    "product_id": 2126580980,
+    "title": "Magical Blush",
+    "image_logo": "7dce818889e707ba048e89cfc744de3f759f96cb215126c010c1642d56807506",
     "product_type": "game"
   },
   {
@@ -54510,9 +54894,21 @@
     "product_type": "game"
   },
   {
+    "product_id": 2129541333,
+    "title": "Terraformers Collection",
+    "image_logo": "f4ff95950a18d0d8f5998be28bbab286594083dec9e2b85536c5ee427263cbcf",
+    "product_type": "pack"
+  },
+  {
     "product_id": 2129967154,
     "title": "Beat Hazard Ultra",
     "image_logo": "436048032df81fd115c67d6cf3155a62f2841f5e4899ce505d34f695b87ec5a5",
+    "product_type": "game"
+  },
+  {
+    "product_id": 2130086905,
+    "title": "Roadhouse Simulator",
+    "image_logo": "3dec8060c4538227a4d55b7876cf8c25d3b19c8f0f3dfbdcfd726c56c68ddc80",
     "product_type": "game"
   },
   {
@@ -54568,6 +54964,12 @@
     "title": "Alwa's Legacy",
     "image_logo": "4f18c8cd7ef99f1da027ceaa093edad82941d48d0e017ce7a94f23a6786a1ab9",
     "product_type": "pack"
+  },
+  {
+    "product_id": 2132388768,
+    "title": "Tennis Manager 26",
+    "image_logo": "b9efae91d3e570648e46128466a340617f9b1bff4e4ce39e4f07eabc8b0b26c4",
+    "product_type": "game"
   },
   {
     "product_id": 2132611980,
@@ -54788,7 +55190,7 @@
   {
     "product_id": 2138094439,
     "title": "Capital Command",
-    "image_logo": "bad88aa79a460391831d4df6ecd561e8d320a4e3d0170e677c70e4c0287eddd1",
+    "image_logo": "52fe687bbb174729de03699a4738267f3ebc5166776f5a7ba4deb9201fe85267",
     "product_type": "game"
   },
   {
@@ -54960,6 +55362,12 @@
     "product_type": "pack"
   },
   {
+    "product_id": 2141666950,
+    "title": "SaGa SCARLET GRACE - AMBITIONS",
+    "image_logo": "6c504fcbe1b98dbf079e86cf6515108f8935bfe33843afa3bd2eb637ef0d993b",
+    "product_type": "game"
+  },
+  {
     "product_id": 2141791023,
     "title": "Night Lights",
     "image_logo": "8f40d9d2417995f88054c08ddc1b609dcbfbb420b4185bfa802a833c35f25d85",
@@ -55054,6 +55462,12 @@
     "title": "Re;Lord 1 ~The witch of Herfort and stuffed animals~",
     "image_logo": "f2eb5ce9d5199d3f60b26d3eff04fc0afcbfaeb798807aff69841f5b7bd1f233",
     "product_type": "game"
+  },
+  {
+    "product_id": 2143232971,
+    "title": "The Coma - Sehwa Complete Edition",
+    "image_logo": "930d20e563caafadc4900cfedb82186cc2fa40054287e2b61c2e2feffb9922fa",
+    "product_type": "pack"
   },
   {
     "product_id": 2143423981,
